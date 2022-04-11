@@ -1,0 +1,9 @@
+.adres {
+    display: inline-block;
+}
+.adresloc {
+    margin: 0 auto ;
+}
+#activepage {
+    font-size: 80;
+}
